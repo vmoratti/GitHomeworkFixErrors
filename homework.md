@@ -10,7 +10,9 @@ JavaScript is a programming laguage
 
 ## 3. Name three problems Git & GitHub solve?
 
-When people want to show off code to each other they can put it on GitHub
+   1. It alows people to work on the same project at the same time
+   2. Deleted/ corrupted files can be easily recovered.
+   3. Github alows for displaying one's work / portfolio
 
 ## 4. What happens when you `fork` a repository?
 
