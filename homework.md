@@ -25,4 +25,4 @@ JavaScript is a programming laguage
 
 ## 6. What is a Pull Request?
 
-When you send a file over the internet
+   Pull request is a suggestion to merge file
