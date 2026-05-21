@@ -16,7 +16,8 @@ JavaScript is a programming laguage
 
 ## 4. What happens when you `fork` a repository?
 
-You delete it
+   You make a copy of a repository
+
 
 ## 5. What happens when you clone a repository?
 
