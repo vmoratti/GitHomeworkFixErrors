@@ -21,7 +21,7 @@ JavaScript is a programming laguage
 
 ## 5. What happens when you clone a repository?
 
-It send it to a friend
+   You make a copy of a repository localy
 
 ## 6. What is a Pull Request?
 
